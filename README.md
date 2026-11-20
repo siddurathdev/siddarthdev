@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi , I'm Siddarth</h1>
-<h3 align="center">Aspiring AI/ML Engineer | CSE – Data Science</h3>
+<h3 align="center">Software developer | CSE – Data Science</h3>
 
 <p align="center">
-  Building intelligent solutions through AI, data and software development.
+  Building practical applications, exploring technologies and solving problems through code
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@
 ## About Me
 
 - CSE – Data Science undergraduate
-- Interested in Artificial Intelligence and Machine Learning
+- Interested in software development and technology
 - Exploring Full-Stack Development and modern technologies
 - Building practical projects that solve real-world problems
-- Constantly learning, experimenting and improving my skills
-- Working towards becoming an AI/ML Engineer
+- Continuously learning new tools and programming skills
+- Focused on improving problem-solving and development skills
 
 ---
 
