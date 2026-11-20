@@ -83,9 +83,9 @@ Product discovery and affiliate showcase platform.
     LinkedIn
   </a>
   •
-  <a href="kukkamudisiddarth@gmail.com">
+   <a href="mailto:kukkamudisiddarth@gmail.com">
     Email
-  </a>
+</a>
 </p>
 
 ---
