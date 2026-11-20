@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Siddarth</h1>
+<h1 align="center">Hi , I'm Siddarth</h1>
 <h3 align="center">Aspiring AI/ML Engineer | CSE – Data Science</h3>
 
 <p align="center">
@@ -14,12 +14,12 @@
 
 ## About Me
 
-- 🎓 CSE – Data Science undergraduate
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 💻 Exploring Full-Stack Development and modern technologies
-- 🚀 Building practical projects that solve real-world problems
-- 📚 Constantly learning, experimenting and improving my skills
-- 🎯 Working towards becoming an AI/ML Engineer
+- CSE – Data Science undergraduate
+- Interested in Artificial Intelligence and Machine Learning
+- Exploring Full-Stack Development and modern technologies
+- Building practical projects that solve real-world problems
+- Constantly learning, experimenting and improving my skills
+- Working towards becoming an AI/ML Engineer
 
 ---
 
@@ -60,7 +60,7 @@ Product discovery and affiliate showcase platform.
   <img src="https://skillicons.dev/icons?i=supabase,git,github,vscode,vercel" />
 </p>
 
-### AI & Data Science
+### Data Science
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
@@ -79,11 +79,11 @@ Product discovery and affiliate showcase platform.
 ## Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/siddu-kukkamudi-193275451?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     LinkedIn
   </a>
   •
-  <a href="mailto:YOUR_EMAIL">
+  <a href="kukkamudisiddarth@gmail.com">
     Email
   </a>
 </p>
