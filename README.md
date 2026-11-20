@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm Siddu</h1>
+<h1 align="center">Hi , I'm Siddu </h1>
 <h3 align="center">Software developer | CSE – Data Science</h3>
 
 <p align="center">
